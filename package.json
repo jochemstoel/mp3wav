@@ -1,0 +1,15 @@
+{
+  "name": "mp3wav",
+  "version": "0.0.4",
+  "description": "Play wav and mp3 files from Node. (on Windows)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "jochemstoel",
+  "license": "MIT",
+  "dependencies": {
+    "internal.modules": "0.0.3-b"
+  }
+}
